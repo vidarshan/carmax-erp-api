@@ -1,0 +1,23 @@
+Completed
+- When the vehicle is provided, all the invoices should be shown and under the invoice number work history should be shown.
+- Check registration date, put a value to say that the customer is eligible for an offer. [1 year registration offer]
+- Invoice should provide the amount to the revenue account and that amount should be stored in the revenue account. No relationship is mandatory.
+- Maintain all jobs in one place.
+
+In progress
+- Use inventory code as the the product definition in product used for the job.
+
+Vehciles should be categorized and standard tariffs should be changed according to vehicles.
+Price history should be maintained to apply corresponding sales price of a certain price.
+When in use quantity increases available should decrease and vice-versa.
+Purchase order should be approved by management.
+
+Hold
+- Offer updated daily, if the customer has a memorable occasion on that specific date, an offer should be granted.
+- Offers for memorable occasions should expire within one week.
+- If the customer is eligible for multiple offers, all offers shpould be shown but only one should be applied.
+[no Unique field for customer]
+
+
+Vehicel Id should be added tp Job
+remove invoice from jobs
