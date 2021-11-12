@@ -2,6 +2,7 @@
 <h1 align="center">Carmax API⚙️</h1>
 
 *API for the Carmax ERP system*
+*This is a copy of a private repository, hence there are no commits history as everything is pushed at once.*
 
 # Setup 🚀
 
